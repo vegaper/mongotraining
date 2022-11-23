@@ -7,7 +7,7 @@ using mongotraining;
 using System.Globalization;
 
 //simple implementation
-string connectionString = "mongodb+srv://m001-student:cwMs4i8DcBH01gJ4@sandbox.icgrf.mongodb.net/?retryWrites=true&w=majority";
+string connectionString = "mongodb+srv://m001-student:<password>@sandbox.icgrf.mongodb.net/?retryWrites=true&w=majority";
 
 string databaseName = "simple_db";
 string collectionName = "people";
